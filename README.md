@@ -14,5 +14,8 @@ Tutorial 2: https://www.youtube.com/watch?v=oFYyTZwMyAg
 6. git status
 
 ### Notes for Tutorial 2
+Solving conflict
+Creating branch and merge to master
+
 
 *Welcome any suggestion
