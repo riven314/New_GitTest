@@ -10,7 +10,9 @@ Tutorial 2: https://www.youtube.com/watch?v=oFYyTZwMyAg
 2. git add [file_name] (or -A)
 3. git commit (-m "message you want ot add")
 4. git push
-5. git pull
+5. git pul
+6. git statusl
 
 ### Notes for Tutorial 2
 
+*Any suggestion is welcome!
