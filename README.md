@@ -11,7 +11,8 @@ Tutorial 2: https://www.youtube.com/watch?v=oFYyTZwMyAg
 3. git commit (-m "message you want ot add")
 4. git push
 5. git pul
-6. git statusl
+6. git status
 
 ### Notes for Tutorial 2
 
+*Welcome any suggestion
