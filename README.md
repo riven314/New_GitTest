@@ -15,4 +15,3 @@ Tutorial 2: https://www.youtube.com/watch?v=oFYyTZwMyAg
 
 ### Notes for Tutorial 2
 
-*Any suggestion is welcome!
